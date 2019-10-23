@@ -2,6 +2,15 @@
   "version": 3,
   "targets": {
     ".NETCoreApp,Version=v2.1": {
+      "Humanizer.Core/2.7.9": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Humanizer.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Humanizer.dll": {}
+        }
+      },
       "Microsoft.AspNet.WebApi.Client/5.2.6": {
         "type": "package",
         "dependencies": {
@@ -4495,6 +4504,21 @@
     }
   },
   "libraries": {
+    "Humanizer.Core/2.7.9": {
+      "sha512": "CvBPqAgYcvRCDgtHi9pUdPpZqWGyqfJe02qDugMCy4/xia+q0xm/xxqTO55aZkJapdgqrvHb0I5u+sHLzovp+Q==",
+      "type": "package",
+      "path": "humanizer.core/2.7.9",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "humanizer.core.2.7.9.nupkg.sha512",
+        "humanizer.core.nuspec",
+        "lib/netstandard1.0/Humanizer.dll",
+        "lib/netstandard1.0/Humanizer.xml",
+        "lib/netstandard2.0/Humanizer.dll",
+        "lib/netstandard2.0/Humanizer.xml"
+      ]
+    },
     "Microsoft.AspNet.WebApi.Client/5.2.6": {
       "sha512": "owAlEIUZXWSnkK8Z1c+zR47A0X6ykF4XjbPok4lQKNuciUfHLGPd6QnI+rt/8KlQ17PmF+I4S3f+m+Qe4IvViw==",
       "type": "package",
@@ -12131,6 +12155,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.1": [
+      "Humanizer.Core >= 2.7.9",
       "Microsoft.AspNetCore.App >= 2.1.1",
       "Microsoft.AspNetCore.Razor.Design >= 2.1.2",
       "Microsoft.EntityFrameworkCore.Sqlite >= 2.1.11",
@@ -12144,11 +12169,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\arunkumar.p\\Documents\\DotNetCore\\AspNetCoreTodo\\AspNetCoreTodo\\AspNetCoreTodo.csproj",
+      "projectUniqueName": "c:\\Users\\arunkumar.p\\Documents\\DotNetCore\\AspNetCoreTodo\\AspNetCoreTodo\\AspNetCoreTodo.csproj",
       "projectName": "AspNetCoreTodo",
-      "projectPath": "C:\\Users\\arunkumar.p\\Documents\\DotNetCore\\AspNetCoreTodo\\AspNetCoreTodo\\AspNetCoreTodo.csproj",
+      "projectPath": "c:\\Users\\arunkumar.p\\Documents\\DotNetCore\\AspNetCoreTodo\\AspNetCoreTodo\\AspNetCoreTodo.csproj",
       "packagesPath": "C:\\Users\\arunkumar.p\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\arunkumar.p\\Documents\\DotNetCore\\AspNetCoreTodo\\AspNetCoreTodo\\obj\\",
+      "outputPath": "c:\\Users\\arunkumar.p\\Documents\\DotNetCore\\AspNetCoreTodo\\AspNetCoreTodo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12178,6 +12203,10 @@
     "frameworks": {
       "netcoreapp2.1": {
         "dependencies": {
+          "Humanizer.Core": {
+            "target": "Package",
+            "version": "[2.7.9, )"
+          },
           "Microsoft.AspNetCore.App": {
             "suppressParent": "All",
             "target": "Package",

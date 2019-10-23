@@ -26,6 +26,8 @@ C:\Users\arunkumar.p\Documents\DotNetCore\AspNetCoreTodo\AspNetCoreTodo\obj\Debu
 C:\Users\arunkumar.p\Documents\DotNetCore\AspNetCoreTodo\AspNetCoreTodo\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
 C:\Users\arunkumar.p\Documents\DotNetCore\AspNetCoreTodo\AspNetCoreTodo\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
 C:\Users\arunkumar.p\Documents\DotNetCore\AspNetCoreTodo\AspNetCoreTodo\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\arunkumar.p\Documents\DotNetCore\AspNetCoreTodo\AspNetCoreTodo\obj\Debug\netcoreapp2.1\Razor\Views\Todo\AddItemPartial.g.cshtml.cs
+C:\Users\arunkumar.p\Documents\DotNetCore\AspNetCoreTodo\AspNetCoreTodo\obj\Debug\netcoreapp2.1\Razor\Views\Todo\Index.g.cshtml.cs
 C:\Users\arunkumar.p\Documents\DotNetCore\AspNetCoreTodo\AspNetCoreTodo\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
 C:\Users\arunkumar.p\Documents\DotNetCore\AspNetCoreTodo\AspNetCoreTodo\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
 C:\Users\arunkumar.p\Documents\DotNetCore\AspNetCoreTodo\AspNetCoreTodo\obj\Debug\netcoreapp2.1\AspNetCoreTodo.RazorTargetAssemblyInfo.cache

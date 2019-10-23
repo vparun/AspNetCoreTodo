@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v2.1",
-    "signature": "2ec0c5b9b9b9169eb0f3f7bd52e968152de8fb56"
+    "signature": "9325eefdf18e67f99d5c0e8af5d86ab15aef88b7"
   },
   "compilationOptions": {
     "defines": [
@@ -24,6 +24,7 @@
     ".NETCoreApp,Version=v2.1": {
       "AspNetCoreTodo/1.0.0": {
         "dependencies": {
+          "Humanizer.Core": "2.7.9",
           "Microsoft.AspNetCore.App": "2.1.1",
           "Microsoft.AspNetCore.Razor.Design": "2.1.2",
           "Microsoft.EntityFrameworkCore.Sqlite": "2.1.11",
@@ -34,6 +35,17 @@
         },
         "compile": {
           "AspNetCoreTodo.dll": {}
+        }
+      },
+      "Humanizer.Core/2.7.9": {
+        "runtime": {
+          "lib/netstandard2.0/Humanizer.dll": {
+            "assemblyVersion": "2.7.0.0",
+            "fileVersion": "2.7.9.7024"
+          }
+        },
+        "compile": {
+          "lib/netstandard2.0/Humanizer.dll": {}
         }
       },
       "Microsoft.AspNetCore.Razor.Design/2.1.2": {},
@@ -3336,6 +3348,13 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "Humanizer.Core/2.7.9": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-CvBPqAgYcvRCDgtHi9pUdPpZqWGyqfJe02qDugMCy4/xia+q0xm/xxqTO55aZkJapdgqrvHb0I5u+sHLzovp+Q==",
+      "path": "humanizer.core/2.7.9",
+      "hashPath": "humanizer.core.2.7.9.nupkg.sha512"
     },
     "Microsoft.AspNetCore.Razor.Design/2.1.2": {
       "type": "package",

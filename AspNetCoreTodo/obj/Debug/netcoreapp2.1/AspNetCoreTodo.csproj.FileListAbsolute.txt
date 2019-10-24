@@ -17,6 +17,7 @@ C:\Users\arunkumar.p\Documents\DotNetCore\AspNetCoreTodo\AspNetCoreTodo\obj\Debu
 C:\Users\arunkumar.p\Documents\DotNetCore\AspNetCoreTodo\AspNetCoreTodo\obj\Debug\netcoreapp2.1\AspNetCoreTodo.TagHelpers.output.cache
 C:\Users\arunkumar.p\Documents\DotNetCore\AspNetCoreTodo\AspNetCoreTodo\obj\Debug\netcoreapp2.1\AspNetCoreTodo.RazorCoreGenerate.cache
 C:\Users\arunkumar.p\Documents\DotNetCore\AspNetCoreTodo\AspNetCoreTodo\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\arunkumar.p\Documents\DotNetCore\AspNetCoreTodo\AspNetCoreTodo\obj\Debug\netcoreapp2.1\Razor\Views\Account\Register.g.cshtml.cs
 C:\Users\arunkumar.p\Documents\DotNetCore\AspNetCoreTodo\AspNetCoreTodo\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
 C:\Users\arunkumar.p\Documents\DotNetCore\AspNetCoreTodo\AspNetCoreTodo\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
 C:\Users\arunkumar.p\Documents\DotNetCore\AspNetCoreTodo\AspNetCoreTodo\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
